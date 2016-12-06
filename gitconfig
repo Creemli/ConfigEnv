@@ -1,0 +1,19 @@
+[user]
+	name = Creem-mac
+	email = creemli@sina.com
+[alias]
+	d = diff --color
+	st = status
+	co = checkout
+	ci = commit
+	ss = stash
+	sp = stash pop
+	lg = log --color --graph --decorate
+[push]
+	default = simple
+[gui]
+	encoding = utf-8
+[i18n]
+	commitencoding = utf-8
+[core]
+	quotepath = false
